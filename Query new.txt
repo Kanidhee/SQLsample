@@ -1,0 +1,11 @@
+create table
+insert 
+values
+
+create procedure
+
+AS 
+Begin 
+
+
+End;
